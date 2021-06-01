@@ -115,3 +115,4 @@ plt.ylabel("Principal Componets 2")
 plt.colorbar()
 
 st.pyplot(fig)
+st.write("Thank You")
